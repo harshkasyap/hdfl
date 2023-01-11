@@ -8,4 +8,4 @@ HDC-based FL
     * open host_ip:port for opening jupyter notebook
         * jupyter notebook --no-browser --ip="*" --port=xxxx --NotebookApp.token='xx' --NotebookApp.iopub_data_rate_limit=1.0e1000
         
-* Run src/hdfl/fl-irbr.ipynb and make changes as required by looking paramaters from cfgs/fedargs.py
+* Run src/hdfl/fl-irbr.ipynb or src/hdfl/fl-irbr.py and make changes as required by looking paramaters from cfgs/fedargs.py
