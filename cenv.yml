@@ -1,4 +1,4 @@
-name: syft
+name: hdfl
 channels:
   - plotly
   - conda-forge
